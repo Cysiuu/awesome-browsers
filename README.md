@@ -1,2 +1,2 @@
-# awesome-browser-extensions
-A curated list of awesome browser extensions!
+# awesome-browsers
+A awesome list of browsers-related stuff!
