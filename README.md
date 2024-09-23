@@ -6,9 +6,6 @@
 
 **Contributions are highly encouraged—let's expand this list together and make it the go-to resource for everything related to web browsers and grow awesome community! -> <a href="contributing.md">Contribution guide</a>**
 
-
-
-
 # Browsers
 
 - ## Blink-based
@@ -70,16 +67,36 @@
 # Special Browsers
 # Alternative Browsers
 
+# Extensions 
+- ## Chrome web store
 
+    - **[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)** - Strong, popular, and one of the best ad & content blocker
+
+    - **[Decentraleyes](https://chromewebstore.google.com/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)** - Extension that protects you against tracking
+
+    - **[Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)** - Allow you to enable dark-mode for all web pages
+
+    - **[Sponsor Block](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)** - Skip sponsors, intros, outros, subscription reminders, and other annoying parts of YouTube videos
+
+    - **[DeArrow](https://chromewebstore.google.com/detail/dearrow-better-titles-and/enamippconapkdmgfgjchkhakpfinmaj)** - Make titles and thumbnails on Youtube free from sensationalism, clickbaits and more
+
+    - **[Boomerang](https://chromewebstore.google.com/detail/boomerang-soap-rest-clien/eipdnjedkpcnlmmdfdkgfpljanehloah)** - Let you easily test SOAP & REST services
+
+    - **[Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)** - Utility that uncovers all the technologies used on websites
+
+    - **[StayFocused](https://chromewebstore.google.com/detail/stayfocusd-block-distract/laankejkbhbdhmipfmgcngdelahlfoji)** - Make yourself fully focused by limiting amount of time spend on time-wasting websites
+
+    - **[Bitwarden](https://chromewebstore.google.com/detail/mened%C5%BCer-hase%C5%82-bitwarden/nngceckbapebfimnlniiiahkandclblb)** - Simple, powerful and secure password manager 
+
+    - **[Start.me](https://chromewebstore.google.com/detail/strona-nowej-karty-startm/cfmnkhhioonhiehehedmnjibmampjiab)** - Express yourself by customizing your start page
+
+    - **[Volume master](https://chromewebstore.google.com/detail/volume-master-kontroler-g/jghecgabfgfdldnmbfkhmffcabddioke)** - Let you boost volume up to 600%
 
 ## Google Chrome
 **[Scroll to top](#awesome-browsers)**
 
 - ### About
     // Todo
-
-- ### Extensions
-    - // Todo
 
 - ### Features
     - // Todo
