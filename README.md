@@ -1,10 +1,11 @@
-# awesome-browsers [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# awesome-browsers 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-**Welcome to the Awesome Browsers! This curated list covers a wide range of web browsers, their features, privacy aspects, and notable controversies. Whether you're looking for information on mainstream browsers, privacy-focused alternatives, or specific browser extensions, this list is here to help you navigate the web with confidence.**
+**Welcome to the Awesome Browsers! This list covers a wide range of web browsers-related stuff, their features, privacy aspects, and helpful links. Whether you're looking for information on mainstream browsers, privacy-focused alternatives, or specific browser extensions, this list is here to help you navigate the web with confidence.**
 
 # Contribution
 
-**Contributions are highly encouraged—let's expand this list together and make it the go-to resource for everything related to web browsers and grow awesome community! -> <a href="contributing.md">Contribution guide</a>**
+**Contributions are highly encouraged — let's expand this list together and make it the go-to resource for everything related to web browsers and grow awesome community! <br><br> >>> <a href="contributing.md">Contribution guidelines</a> <<<**
 
 # Browsers
 
@@ -44,22 +45,30 @@
 
 # Search Engines
 
-- ## Standard
-    - [Google](#google-search)
-    - [Microsoft Bing](#microsoft-bing)
-    - [Yahoo!](#yahoo!)
-    - [Yandex](#yandex)
-    - [Ecosia](#ecosia)
+- ## Standard Search Engines
+    - **[Google](https://www.google.com/)** - The most popular and widely used search engine, known for its fast, comprehensive, and accurate search results, along with a range of integrated tools and services
 
-- ## Privacy-based
-    - [Brave Search](#brave-search)
-    - [Startpage](#startpage)
-    - [Qwant](#qwant)
-    - [Searx](#searx)
-    - [SearXNG](#searxng)
-    - [Swisscows](#swisscows)
-    - [DuckDuckGo](#duckduckgo)
-    - [Presearch](#presearch)
+    - **[Microsoft Bing](https://www.bing.com/)** - A robust alternative to Google, Bing offers visually rich search results, image searches, and rewards users with Microsoft Points
+
+    - **[Yahoo!](https://www.yahoo.com/)** - A search engine that integrates news, mail, and entertainment content with its search capabilities, though its search results are powered by Bing.
+
+    - **[Yandex](https://yandex.com/)** - Popular in Russia, Yandex provides search, maps, and translation services, along with a variety of other tools tailored for Russian-speaking users.
+    - **[Ecosia](https://www.ecosia.org/)** - An "eco-friendly" search engine that uses ad revenue to plant trees, aiming to make a positive environmental impact with every search.
+
+- ## Privacy-Focused Search Engines
+    - **[Brave Search](https://search.brave.com/)** - Privacy-first search engine developed by Brave, offering ad-free search results without tracking users or collecting personal data
+
+    - **[Startpage](https://www.startpage.com/)** - Privacy-focused search engine that delivers Google’s search results without tracking or storing user data
+
+    - **[Qwant](https://www.qwant.com/)** - European search engine that prioritizes privacy and delivers search results without tracking or targeted ads
+
+    - **[SearXNG](https://github.com/searxng/searxng)** - Community-driven fork of Searx that enhances user privacy while offering highly customizable and non-tracking search results
+
+    - **[Swisscows](https://swisscows.com/)** - Family-friendly, privacy-respecting search engine based in Switzerland, focusing on security and data protection
+
+    - **[DuckDuckGo](https://duckduckgo.com/)** - Popular privacy-focused search engine that doesn’t track user activity and offers straightforward search results without personalized ads
+
+    - **[Presearch](https://presearch.com/)** - Decentralized search engine that rewards users with cryptocurrency tokens for searching while maintaining privacy and security
 
 # Privacy & Security
 # Augmented Browsers
@@ -68,6 +77,7 @@
 # Alternative Browsers
 
 # Extensions 
+
 - ## Chrome web store
 
     - **[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)** - Strong, popular, and one of the best ad & content blocker
