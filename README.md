@@ -70,19 +70,23 @@
     - **[Presearch](https://presearch.com/)** - Decentralized search engine that rewards users with cryptocurrency tokens for searching while maintaining privacy and security
 
 # Privacy & Security
+- ## Websites and lists
+    - **[PrivacyTests](https://privacytests.org/)** - Website to check which web-browsers pass privacy-test ( SP tests, Navigation tests, HTTPS tests and other )
+    - **[Arkenfox Test Sites Wiki](https://github.com/arkenfox/user.js/wiki/Appendix-A-Test-Sites)** - List of helpful test sites to check how private is your browser
+    - **[XSinator](https://xsinator.com/)** - XS-Leak browser test suite
+    - **[CoverYourTracks](https://coveryourtracks.eff.org/)** - Website to help you check your protection against tracking and fingerprinting
+    - **[TestingYourSecurityPrivacy](https://www.billdietrich.me/TestingYourSecurityPrivacy.html?expandall=1#TestForLeaks)** - List that cover a lot of privacy & security tests
+    - **[minbrowser](https://github.com/minbrowser/min)** - Open-source, minimal and privacy-focused browser, designed to help users focus by offering distraction-free browsing
+    - **[awesome-privacy Web Browser Section](https://github.com/pluja/awesome-privacy?tab=readme-ov-file#web-browser)** - Section about web browsers privacy from awesome-privacy ( Check full repository too! )
+- ## AdBlock Testers
+    - **[d3ward adblock test](https://d3ward.github.io/toolz/adblock.html)** - Open-source test that allows you to check if your adblock solution is blocking enough hosts
+    - **[AdBlock Tester](https://adblock-tester.com/)** - Test AdBlock with various advertising and analytic services
+    - **[Can you block it?](https://canyoublockit.com/)** - AdBlock test website that comes with 3 types of tests (Simple, eXtreme and Advanced)
 
-**[PrivacyTests](https://privacytests.org/)** - Website to check which web-browsers pass privacy-test ( SP tests, Navigation tests, HTTPS tests and other ) <br>
-**[Arkenfox Test Sites Wiki](https://github.com/arkenfox/user.js/wiki/Appendix-A-Test-Sites)** - List of helpful test sites to check how private is your browser <br>
-**[XSinator](https://xsinator.com/)** - XS-Leak browser test suite <br>
-**[CoverYourTracks](https://coveryourtracks.eff.org/)** - Website to help you check your protection against tracking and fingerprinting <br>
-**[TestingYourSecurityPrivacy](https://www.billdietrich.me/TestingYourSecurityPrivacy.html?expandall=1#TestForLeaks)** - List that cover a lot of privacy & security tests <br>
-**[minbrowser](https://github.com/minbrowser/min)** - Open-source, minimal and privacy-focused browser <br>
-**[awesome-privacy Web Browser Section](https://github.com/pluja/awesome-privacy?tab=readme-ov-file#web-browser)** - Section about web browsers privacy from awesome-privacy ( Check full repository too! ) <br>
 
-# Augmented Browsers
-# Text Browsers
 # Special Browsers
-# Alternative Browsers
+**[Nyxt](https://github.com/atlas-engineer/nyxt)** - Keyboard-driven web browser inspired by Emacs and Vim with familiar keybindings <br>
+**[Qute](https://github.com/qutebrowser/qutebrowser)** - Keyboard-driven web browser based on Python and Qt, popular among users who prefer minimalism
 
 # Extensions 
 
