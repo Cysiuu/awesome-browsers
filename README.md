@@ -1,11 +1,11 @@
 # awesome-browsers 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-**Welcome to the Awesome Browsers! This list covers a wide range of web browsers-related stuff, their features, privacy aspects, and helpful links. Whether you're looking for information on mainstream browsers, privacy-focused alternatives, or specific browser extensions, this list is here to help you navigate the web with confidence.**
+**Welcome to the Awesome Browsers! This list covers a wide range of web browser-related topics, including features, privacy aspects, and helpful links. Whether you're seeking information on mainstream browsers, privacy-focused alternatives, or specific browser extensions, this list helps you navigate the web with confidence.**
 
 # Contribution
 
-**Contributions are highly encouraged — let's expand this list together and make it the go-to resource for everything related to web browsers and grow awesome community! <br><br> >>> <a href="contributing.md">Contribution guidelines</a> <<<**
+**Contributions are highly encouraged — let's expand this list together and make it the go-to resource for everything related to web browsers and grow an awesome community! <br><br> >>> <a href="contributing.md">Contribution guidelines</a> <<<**
 
 # Browsers
 
@@ -52,7 +52,7 @@
 
     - **[Yahoo!](https://www.yahoo.com/)** - A search engine that integrates news, mail, and entertainment content with its search capabilities, though its search results are powered by Bing.
 
-    - **[Ecosia](https://www.ecosia.org/)** - An "eco-friendly" search engine that uses ad revenue to plant trees, aiming to make a positive environmental impact with every search.
+    - **[Ecosia](https://www.ecosia.org/)** - An "eco-friendly" search engine that uses ad revenue to plant trees, with the goal of making a positive environmental impact with each search
 
 - ## Privacy-Focused Search Engines
     - **[Brave Search](https://search.brave.com/)** - Privacy-first search engine developed by Brave, offering ad-free search results without tracking users or collecting personal data
@@ -70,18 +70,20 @@
     - **[Presearch](https://presearch.com/)** - Decentralized search engine that rewards users with cryptocurrency tokens for searching while maintaining privacy and security
 
 # Privacy & Security
-- ## Websites and lists
-    - **[PrivacyTests](https://privacytests.org/)** - Website to check which web-browsers pass privacy-test ( SP tests, Navigation tests, HTTPS tests and other )
-    - **[Arkenfox Test Sites Wiki](https://github.com/arkenfox/user.js/wiki/Appendix-A-Test-Sites)** - List of helpful test sites to check how private is your browser
+
+- ## Websites, lists and other
+    - **[PrivacyTests](https://privacytests.org/)** - Website to check which web browsers pass privacy tests (e.g., SP tests, Navigation tests, HTTPS tests, and others)
+    - **[Arkenfox Test Sites Wiki](https://github.com/arkenfox/user.js/wiki/Appendix-A-Test-Sites)** - List of helpful test sites to check how private your browser is
     - **[XSinator](https://xsinator.com/)** - XS-Leak browser test suite
     - **[CoverYourTracks](https://coveryourtracks.eff.org/)** - Website to help you check your protection against tracking and fingerprinting
-    - **[TestingYourSecurityPrivacy](https://www.billdietrich.me/TestingYourSecurityPrivacy.html?expandall=1#TestForLeaks)** - List that cover a lot of privacy & security tests
+    - **[TestingYourSecurityPrivacy](https://www.billdietrich.me/TestingYourSecurityPrivacy.html?expandall=1#TestForLeaks)** - A list that covers a wide range of privacy and security tests
     - **[minbrowser](https://github.com/minbrowser/min)** - Open-source, minimal and privacy-focused browser, designed to help users focus by offering distraction-free browsing
-    - **[awesome-privacy Web Browser Section](https://github.com/pluja/awesome-privacy?tab=readme-ov-file#web-browser)** - Section about web browsers privacy from awesome-privacy ( Check full repository too! )
+    - **[awesome-privacy Web Browser Section](https://github.com/pluja/awesome-privacy?tab=readme-ov-file#web-browser)** - A section on web browser privacy from Awesome-Privacy ( Check full repository too! )
+
 - ## AdBlock Testers
     - **[d3ward adblock test](https://d3ward.github.io/toolz/adblock.html)** - Open-source test that allows you to check if your adblock solution is blocking enough hosts
     - **[AdBlock Tester](https://adblock-tester.com/)** - Test AdBlock with various advertising and analytic services
-    - **[Can you block it?](https://canyoublockit.com/)** - AdBlock test website that comes with 3 types of tests (Simple, eXtreme and Advanced)
+    - **[Can you block it?](https://canyoublockit.com/)** - "AdBlock test website offering three types of tests (Simple, Extreme, and Advanced)
 
 
 # Special Browsers
@@ -92,21 +94,21 @@
 
 - ## Chrome web store
 
-    - **[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)** - Strong, popular, and one of the best ad & content blocker
+    - **[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)** - A strong, popular, and highly effective ad and content blocker
 
     - **[Decentraleyes](https://chromewebstore.google.com/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)** - Extension that protects you against tracking
 
-    - **[Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)** - Allow you to enable dark-mode for all web pages
+    - **[Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)** - Allows you to enable dark mode for all web pages
 
     - **[Sponsor Block](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)** - Skip sponsors, intros, outros, subscription reminders, and other annoying parts of YouTube videos
 
     - **[DeArrow](https://chromewebstore.google.com/detail/dearrow-better-titles-and/enamippconapkdmgfgjchkhakpfinmaj)** - Make titles and thumbnails on Youtube free from sensationalism, clickbaits and more
 
-    - **[Boomerang](https://chromewebstore.google.com/detail/boomerang-soap-rest-clien/eipdnjedkpcnlmmdfdkgfpljanehloah)** - Let you easily test SOAP & REST services
+    - **[Boomerang](https://chromewebstore.google.com/detail/boomerang-soap-rest-clien/eipdnjedkpcnlmmdfdkgfpljanehloah)** - Allows you to easily test SOAP & REST services
 
-    - **[Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)** - Utility that uncovers all the technologies used on websites
+    - **[Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)** - A utility that uncovers all the technologies used on websites
 
-    - **[StayFocused](https://chromewebstore.google.com/detail/stayfocusd-block-distract/laankejkbhbdhmipfmgcngdelahlfoji)** - Make yourself fully focused by limiting amount of time spend on time-wasting websites
+    - **[StayFocused](https://chromewebstore.google.com/detail/stayfocusd-block-distract/laankejkbhbdhmipfmgcngdelahlfoji)** - Helps you stay focused by limiting the amount of time spent on time-wasting websites
 
     - **[Bitwarden](https://chromewebstore.google.com/detail/mened%C5%BCer-hase%C5%82-bitwarden/nngceckbapebfimnlniiiahkandclblb)** - Simple, powerful and secure password manager 
 
@@ -115,20 +117,6 @@
     - **[Volume master](https://chromewebstore.google.com/detail/volume-master-kontroler-g/jghecgabfgfdldnmbfkhmffcabddioke)** - Let you boost volume up to 600%
 
 ## Google Chrome
-**[Scroll to top](#awesome-browsers)**
 
-- ### About
-    // Todo
 
-- ### Features
-    - // Todo
-
-- ### Privacy & Security
-    - // Todo
-
-- ### Updates & Relases
-    - // Todo
-
-- ### Compatibility
-    - // Todo
 
