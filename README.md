@@ -52,7 +52,6 @@
 
     - **[Yahoo!](https://www.yahoo.com/)** - A search engine that integrates news, mail, and entertainment content with its search capabilities, though its search results are powered by Bing.
 
-    - **[Yandex](https://yandex.com/)** - Popular in Russia, Yandex provides search, maps, and translation services, along with a variety of other tools tailored for Russian-speaking users.
     - **[Ecosia](https://www.ecosia.org/)** - An "eco-friendly" search engine that uses ad revenue to plant trees, aiming to make a positive environmental impact with every search.
 
 - ## Privacy-Focused Search Engines
@@ -71,6 +70,15 @@
     - **[Presearch](https://presearch.com/)** - Decentralized search engine that rewards users with cryptocurrency tokens for searching while maintaining privacy and security
 
 # Privacy & Security
+
+**[PrivacyTests](https://privacytests.org/)** - Website to check which web-browsers pass privacy-test ( SP tests, Navigation tests, HTTPS tests and other ) <br>
+**[Arkenfox Test Sites Wiki](https://github.com/arkenfox/user.js/wiki/Appendix-A-Test-Sites)** - List of helpful test sites to check how private is your browser <br>
+**[XSinator](https://xsinator.com/)** - XS-Leak browser test suite <br>
+**[CoverYourTracks](https://coveryourtracks.eff.org/)** - Website to help you check your protection against tracking and fingerprinting <br>
+**[TestingYourSecurityPrivacy](https://www.billdietrich.me/TestingYourSecurityPrivacy.html?expandall=1#TestForLeaks)** - List that cover a lot of privacy & security tests <br>
+**[minbrowser](https://github.com/minbrowser/min)** - Open-source, minimal and privacy-focused browser <br>
+**[awesome-privacy Web Browser Section](https://github.com/pluja/awesome-privacy?tab=readme-ov-file#web-browser)** - Section about web browsers privacy from awesome-privacy ( Check full repository too! ) <br>
+
 # Augmented Browsers
 # Text Browsers
 # Special Browsers
