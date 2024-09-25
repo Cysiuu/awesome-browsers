@@ -72,6 +72,7 @@
 # Privacy & Security
 
 - ## Websites, lists and other
+
     - **[PrivacyTests](https://privacytests.org/)** - Website to check which web browsers pass privacy tests (e.g., SP tests, Navigation tests, HTTPS tests, and others)
     - **[Arkenfox Test Sites Wiki](https://github.com/arkenfox/user.js/wiki/Appendix-A-Test-Sites)** - List of helpful test sites to check how private your browser is
     - **[XSinator](https://xsinator.com/)** - XS-Leak browser test suite
