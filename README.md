@@ -117,6 +117,10 @@
 
     - **[Volume master](https://chromewebstore.google.com/detail/volume-master-kontroler-g/jghecgabfgfdldnmbfkhmffcabddioke)** - Let you boost volume up to 600%
 
+- ## Addons mozilla
+
+    - **[Absolute Enable Right Click & Copy](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/)** - Force enable right click & copy, remove copy text protection from websites and more!
+
 ## Google Chrome
 
 
