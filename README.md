@@ -7,6 +7,20 @@
 
 **Contributions are highly encouraged — let's expand this list together and make it the go-to resource for everything related to web browsers and grow an awesome community! <br><br> >>> <a href="contributing.md">Contribution guidelines</a> <<<**
 
+# Table of Contents
+
+- **[Browsers](#browsers)**
+- **[Special Browsers](#special-browsers)**
+- **Search Engines**
+    - **[Standard](#standard-search-engines)**
+    - **[Privacy-Focused](#privacy-focused-search-engines)**
+- **Privacy & Security**
+    - **[Websites, lists and other](#websites-lists-and-other)**
+    - **[AdBlock Testers](#adblock-testers)**
+- **Extensions**
+    - **[Chrome web store](#chrome-web-store)**
+    - **[Addons mozilla](#addons-mozilla)**
+
 # Browsers
 
 🛡️ **Privacy-focused** <br>
@@ -60,7 +74,7 @@
 
     - **[Ecosia](https://www.ecosia.org/)** - An "eco-friendly" search engine that uses ad revenue to plant trees, with the goal of making a positive environmental impact with each search
 
-- ## 🛡️ Privacy-Focused Search Engines
+- ## Privacy-Focused Search Engines 🛡️ <a id="privacy-focused-search-engines"></a>
     - **[Brave Search](https://search.brave.com/)** - Privacy-first search engine developed by Brave, offering ad-free search results without tracking users or collecting personal data
 
     - **[Startpage](https://www.startpage.com/)** - Privacy-focused search engine that delivers Google’s search results without tracking or storing user data
