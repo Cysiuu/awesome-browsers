@@ -74,7 +74,7 @@
 
     - **[Ecosia](https://www.ecosia.org/)** - An "eco-friendly" search engine that uses ad revenue to plant trees, with the goal of making a positive environmental impact with each search
 
-- ## Privacy-Focused Search Engines 🛡️ <a id="privacy-focused-search-engines"></a>
+- ## Privacy-Focused Search Engines
     - **[Brave Search](https://search.brave.com/)** - Privacy-first search engine developed by Brave, offering ad-free search results without tracking users or collecting personal data
 
     - **[Startpage](https://www.startpage.com/)** - Privacy-focused search engine that delivers Google’s search results without tracking or storing user data
