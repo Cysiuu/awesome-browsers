@@ -9,8 +9,8 @@
 
 # Browsers
 
-- ## Blink-based
-    - [Chromium](#chromium)
+- ## Desktop browsers
+    - [Chromium](#chromium) - **(and browsers based on)**
         - [Chrome](#google-chrome)
         - [Microsoft Edge](#microsoft-edge)
         - [Opera](#opera)
@@ -19,17 +19,15 @@
         - [Yandex Browser](#yandex-browser)
         - [Vivaldi](#vivaldi)
         - [Brave](#brave)
+        - [Falkon](#falkon) - **( built on the QtWebEngine )**
 
-
-- ## Gecko-based
-    - [Mozilla Firefox](#mozilla-firefox)
-    - [Floorp](#floorp)
-    - [Libre Wolf](#libre-wolf)
-    - [Tor Browser](#tor-browser)
-        - [Mullvad Browser](#mullvad-browser)
-    - [Waterfox](#waterfox)
-
-- ## Goanna-based
+    - [Mozilla Firefox](#mozilla-firefox) - **(and browsers based on)**
+        - [Floorp](#floorp)
+        - [Libre Wolf](#libre-wolf)
+        - [Waterfox](#waterfox)
+        - [Tor Browser](#tor-browser)
+            - [Mullvad Browser](#mullvad-browser) - **( based on Tor )**
+    
     - [Pale Moon](#pale-moon)
     
 - ## Mobile Browsers
@@ -117,7 +115,9 @@
 
     - **[Volume master](https://chromewebstore.google.com/detail/volume-master-kontroler-g/jghecgabfgfdldnmbfkhmffcabddioke)** - Let you boost volume up to 600%
 
+
 ## Google Chrome
+    
 
 
 
