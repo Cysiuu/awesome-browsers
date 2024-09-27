@@ -155,19 +155,19 @@
 
     - **[600% Sound Volume](https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume/)** - Let you boost volume up to 600%
 
-    - **[Search by Image](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)** - makes effortless reverse image searches possible, and comes with support for more than 30 search engines
+    - **[Search by Image](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)** - Makes effortless reverse image searches possible, and comes with support for more than 30 search engines
 
-    - **[Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/)** - provides the ability to work with tabs as "trees"
+    - **[Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/)** - Provides the ability to work with tabs as "trees"
 
     - **[Grammar and Spell Checker - LanguageTool ](https://addons.mozilla.org/en-US/firefox/addon/languagetool/)** - Check your texts for spelling and grammar problems everywhere on the web
 
     - **[Absolute Enable Right Click & Copy](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/)** - Force enable right click & copy, remove copy text protection from websites and more!
 
-    - **[LeechBlock NG](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/)** - simple free productivity tool designed to block those time-wasting sites that can suck the life out of your working day
+    - **[LeechBlock NG](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/)** - Simple free productivity tool designed to block those time-wasting sites that can suck the life out of your working day
 
-    - **[Undo Close Tab](https://addons.mozilla.org/en-US/firefox/addon/undoclosetabbutton/)** - allows you to restore the most recently closed tab with a single button click and gives you access to the list of recently closed tabs in a context menu
+    - **[Undo Close Tab](https://addons.mozilla.org/en-US/firefox/addon/undoclosetabbutton/)** - Allows you to restore the most recently closed tab with a single button click and gives you access to the list of recently closed tabs in a context menu
 
-    - **[Emoji](https://addons.mozilla.org/en-US/firefox/addon/emoji-sav/)** - open-source project which permits you to copy and insert easily an emoji
+    - **[Emoji](https://addons.mozilla.org/en-US/firefox/addon/emoji-sav/)** - Open-source project which permits you to copy and insert easily an emoji
 
 ## [Arc](https://arc.net/)
 A newer browser from The Browser Company, Arc is designed with a focus on creativity and productivity. Its interface is radically different, emphasizing workspace organization and collaboration through features like tab management with cards and folders. Arc’s experimental design has garnered attention, particularly among tech enthusiasts and designers, but it’s still in its early stages, and some users find its non-traditional UI challenging. Its approach offers a fresh take, but adoption is currently niche.
