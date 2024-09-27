@@ -125,7 +125,35 @@
 
 - ## Addons mozilla
 
+    - **[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)** - A strong, popular, and highly effective ad and content blocker
+
+    - **[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)** - Extension that protects you against tracking
+
+    - **[Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)** - Allows you to enable dark mode for all web pages
+
+    - **[Sponsor Block](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)** - Skip sponsors, intros, outros, subscription reminders, and other annoying parts of YouTube videos
+
+    - **[DeArrow](https://addons.mozilla.org/en-US/firefox/addon/dearrow/)** - Make titles and thumbnails on Youtube free from sensationalism, clickbaits and more
+
+    - **[Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)** - A utility that uncovers all the technologies used on websites
+
+    - **[Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)** - Simple, powerful and secure password manager 
+
+    - **[600% Sound Volume](https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume/)** - Let you boost volume up to 600%
+
+    - **[Search by Image](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)** - makes effortless reverse image searches possible, and comes with support for more than 30 search engines
+
+    - **[Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/)** - provides the ability to work with tabs as "trees"
+
+    - **[Grammar and Spell Checker - LanguageTool ](https://addons.mozilla.org/en-US/firefox/addon/languagetool/)** - Check your texts for spelling and grammar problems everywhere on the web
+
     - **[Absolute Enable Right Click & Copy](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/)** - Force enable right click & copy, remove copy text protection from websites and more!
+
+    - **[LeechBlock NG](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/)** - simple free productivity tool designed to block those time-wasting sites that can suck the life out of your working day
+
+    - **[Undo Close Tab](https://addons.mozilla.org/en-US/firefox/addon/undoclosetabbutton/)** - allows you to restore the most recently closed tab with a single button click and gives you access to the list of recently closed tabs in a context menu
+
+    - **[Emoji](https://addons.mozilla.org/en-US/firefox/addon/emoji-sav/)** - open-source project which permits you to copy and insert easily an emoji
 
 ## [Arc](https://arc.net/)
 A newer browser from The Browser Company, Arc is designed with a focus on creativity and productivity. Its interface is radically different, emphasizing workspace organization and collaboration through features like tab management with cards and folders. Arc’s experimental design has garnered attention, particularly among tech enthusiasts and designers, but it’s still in its early stages, and some users find its non-traditional UI challenging. Its approach offers a fresh take, but adoption is currently niche.
