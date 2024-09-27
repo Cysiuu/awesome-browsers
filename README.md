@@ -9,39 +9,44 @@
 
 # Browsers
 
+🛡️ **Privacy-focused** <br>
+💻 **Cross-platform** <br>
+🌐 **Open-Source** <br>
+
+
 - ## Desktop browsers
     - [Chromium](#chromium) - **(and browsers based on)**
-        - [Arc](#arc)
-        - [Brave](#brave)
-        - [Chrome](#google-chrome)
-        - [Falkon](#falkon) - **( built on the QtWebEngine )**
-        - [Microsoft Edge](#microsoft-edge)
-        - [Opera](#opera)
-        - [Opera GX](#opera-gx)
-        - [Vivaldi](#vivaldi)
-        - [Yandex Browser](#yandex-browser)
+        - [Arc](#arc) 💻
+        - [Brave](#brave) 🌐 💻 🛡️
+        - [Chrome](#google-chrome) 💻
+        - [Falkon](#falkon) - 🌐 **( built on the QtWebEngine )** 
+        - [Microsoft Edge](#microsoft-edge) 💻
+        - [Opera](#opera) 💻
+        - [Opera GX](#opera-gx) 💻
+        - [Vivaldi](#vivaldi) 🌐 💻 🛡️
+        - [Yandex Browser](#yandex-browser) 💻 **(controversial)**
 
-    - [Mozilla Firefox](#mozilla-firefox) - **(and browsers based on)**
-        - [Floorp](#floorp)
-        - [Libre Wolf](#libre-wolf)
-        - [Tor Browser](#tor-browser)
-            - [Mullvad Browser](#mullvad-browser) - **( based on Tor )**
-        - [Waterfox](#waterfox)
+    - [Mozilla Firefox](#mozilla-firefox) 🌐 💻 🛡️ - **(and browsers based on)** 
+        - [Floorp](#floorp) 🌐 🛡️ 
+        - [Libre Wolf](#libre-wolf) 🌐 🛡️ 
+        - [Tor Browser](#tor-browser) 🌐 💻 🛡️  
+            - [Mullvad Browser](#mullvad-browser) - **( based on Tor )** 🌐 🛡️
+        - [Waterfox](#waterfox) 🌐 🛡️
         
-    - [Pale Moon](#pale-moon)
+    - [Pale Moon](#pale-moon) 🌐
     
 - ## Mobile Browsers
-    - [Arc](#arc)
-    - [Brave](#brave)
-    - [Chrome](#google-chrome)
-    - [Kiwi Browser](#kiwi-browser)
-    - [Microsoft Edge](#microsoft-edge)
-    - [Mozilla Firefox](#mozilla-firefox)
-    - [Opera](#opera)
-    - [Opera GX](#opera-gx)
-    - [Safari](#safari)
-    - [Vivaldi](#vivaldi)
-    - [Yandex Browser](#yandex-browser)
+    - [Arc](#arc) 💻
+    - [Brave](#brave) 🌐 💻 🛡️
+    - [Chrome](#google-chrome) 💻
+    - [Kiwi Browser](#kiwi-browser) 🌐 💻
+    - [Microsoft Edge](#microsoft-edge) 💻
+    - [Mozilla Firefox](#mozilla-firefox) 🌐 💻 🛡️
+    - [Opera](#opera) 💻
+    - [Opera GX](#opera-gx) 💻
+    - [Safari](#safari) 💻
+    - [Vivaldi](#vivaldi) 🌐 💻 🛡️
+    - [Yandex Browser](#yandex-browser) 💻
 
 
 # Search Engines
@@ -55,7 +60,7 @@
 
     - **[Ecosia](https://www.ecosia.org/)** - An "eco-friendly" search engine that uses ad revenue to plant trees, with the goal of making a positive environmental impact with each search
 
-- ## Privacy-Focused Search Engines
+- ## 🛡️ Privacy-Focused Search Engines
     - **[Brave Search](https://search.brave.com/)** - Privacy-first search engine developed by Brave, offering ad-free search results without tracking users or collecting personal data
 
     - **[Startpage](https://www.startpage.com/)** - Privacy-focused search engine that delivers Google’s search results without tracking or storing user data
