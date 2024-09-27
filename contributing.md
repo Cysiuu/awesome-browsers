@@ -4,22 +4,33 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+When submitting a pull request, please follow these guidelines to help maintain quality and consistency:
 
-- Ensure that links, information, and extensions are current, trusted, and safe.
-- Make an individual pull request for each suggestion.
-- Additions should be added to the bottom of the relevant category.
-- The suggestion should be in English.
-- Stick to the correct formatting of the README.md file.
-- The pull request title should follow this format: `[Category Name][Short Description]`.
-- Keep descriptions short and simple but descriptive.
-	- The description should not be a marketing tagline.
-	- The description should not be in title case.
-	- The description should not repeat the item title.
-	- The description should start with a capital letter and end with a period.
-- Check your spelling and grammar. You can use tools like ChatGPT for assistance!
-- Make sure your text editor is set to remove trailing whitespace.
-- New categories or improvements to existing categorization are welcome, but should be done in a separate pull request.
-- Consider testing any browser or extension before suggesting it to ensure it works as described.
+1. **Ensure your pull request adheres to these guidelines:**
+   - Make sure that links, information, and extensions are up-to-date, trusted, and safe.
+   - Submit **one suggestion per pull request** for easier review and discussion.
+   - Add new items to the **bottom of the relevant category** or arrange them alphabetically where appropriate.
+   - Your suggestion should be in **English** and follow correct grammar and spelling.
+   - Use the correct **formatting** for your submission.
+   
+2. **Pull request titles:**
+   - Format the title as: `[Category Name] [Short Description]`. Example: `[Extensions] Add 'X' extension`.
+   
+3. **Descriptions:**
+   - Keep descriptions **short, simple, and descriptive**.
+   - Avoid using marketing taglines.
+   - Do not use title case (all major words capitalized) in the description.
+   - Do not repeat the item title in the description.
+   - Begin descriptions with a **capital letter** and end with a **period**.
+   
+4. **General standards:**
+   - Proofread your submission for spelling and grammar issues.
+   - Ensure your text editor is set to remove trailing whitespace.
+   - New categories or changes to existing categories are welcome but should be submitted as a **separate pull request**.
 
-Thank you for your contribution!
+5. **Testing:**
+   - If you're suggesting a browser tool or extension, consider testing it first to make sure it functions as expected.
+
+We appreciate your contributions and the effort you put into improving this project! If you have any questions, feel free to ask in the project discussions or issue tracker.
+
+Thank you for helping make this project better for everyone!
