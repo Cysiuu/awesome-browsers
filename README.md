@@ -11,34 +11,34 @@
 
 - ## Desktop browsers
     - [Chromium](#chromium) - **(and browsers based on)**
+        - [Arc](#arc)
+        - [Brave](#brave)
         - [Chrome](#google-chrome)
+        - [Falkon](#falkon) - **( built on the QtWebEngine )**
         - [Microsoft Edge](#microsoft-edge)
         - [Opera](#opera)
-        - [Arc](#arc)
         - [Opera GX](#opera-gx)
-        - [Yandex Browser](#yandex-browser)
         - [Vivaldi](#vivaldi)
-        - [Brave](#brave)
-        - [Falkon](#falkon) - **( built on the QtWebEngine )**
+        - [Yandex Browser](#yandex-browser)
 
     - [Mozilla Firefox](#mozilla-firefox) - **(and browsers based on)**
         - [Floorp](#floorp)
         - [Libre Wolf](#libre-wolf)
-        - [Waterfox](#waterfox)
         - [Tor Browser](#tor-browser)
             - [Mullvad Browser](#mullvad-browser) - **( based on Tor )**
-    
+        - [Waterfox](#waterfox)
+        
     - [Pale Moon](#pale-moon)
     
 - ## Mobile Browsers
     - [Arc](#arc-mobile)
     - [Brave](#brave-mobile)
+    - [Kiwi Browser](#kiwi-browser)
+    - [Microsoft Edge](#microsoft-edge-mobile)
+    - [Mozilla Firefox](#mozilla-firefox-mobile)
+    - [Opera](#opera-mobile)
     - [Safari](#safari)
     - [Vivaldi](#vivaldi-mobile)
-    - [Opera](#opera-mobile)
-    - [Mozilla Firefox](#mozilla-firefox-mobile)
-    - [Microsoft Edge](#microsoft-edge-mobile)
-    - [Kiwi Browser](#kiwi-browser)
 
 
 # Search Engines
@@ -119,7 +119,12 @@
 
     - **[Absolute Enable Right Click & Copy](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/)** - Force enable right click & copy, remove copy text protection from websites and more!
 
+## Chromium
+
+An open-source browser project developed by Google, serving as the foundation for many popular browsers. Chromium is known for its minimalistic design, fast performance, and adherence to modern web standards. While developers use it as a base, it does not include proprietary features such as automatic updates or Google services, which are found in Chrome. Critics of Chromium argue that its dominance, backed by Google, reinforces the monopolization of web standards.
+
 ## Google Chrome
+Google Chrome is the most widely-used browser globally, praised for its speed, sleek design, and integration with Google services like Drive and Gmail. It boasts a vast extension ecosystem, making it highly customizable. However, Chrome is often criticized for its heavy resource usage and privacy concerns due to its deep integration with Google's data collection practices. Despite this, it remains popular for its consistent performance and regular updates.
     
 
 
