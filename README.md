@@ -249,7 +249,7 @@ Safari is Apple’s default browser for macOS and iOS, known for its speed, ener
 ## [Tor Browser](https://www.torproject.org/download/)
 Tor Browser is all about anonymity. It routes your traffic through the Tor network, making it much harder to track what you’re doing online. It’s a go-to for journalists, activists, and anyone in high-risk areas where privacy is critical. The downside is it’s slower than other browsers because of the way it handles your traffic. It’s great for privacy, but not perfect for everyday browsing if speed is a priority.
 
-![Tor browser](https://i0.wp.com/9to5linux.com/wp-content/uploads/2021/11/torbrowser11.webp?fit=1920%2C1080&ssl=1)
+![Tor browser](https://antonela.design/wp-content/uploads/tor-browser-ui.png) 
 
 ## [Mullvad Browser](https://mullvad.net/en/browser)
 Developed in partnership with the creators of Mullvad VPN, the Mullvad Browser is a Tor-based browser designed to reduce tracking and increase anonymity, without necessarily routing traffic through the Tor network. It’s popular among VPN users seeking a privacy-focused browser without the full overhead of the Tor network. It’s still relatively new, and adoption is primarily among those already familiar with Mullvad's privacy products.
