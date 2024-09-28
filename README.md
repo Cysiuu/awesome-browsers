@@ -172,59 +172,99 @@
 ## [Arc](https://arc.net/)
 A newer browser from The Browser Company, Arc is designed with a focus on creativity and productivity. Its interface is radically different, emphasizing workspace organization and collaboration through features like tab management with cards and folders. Arc’s experimental design has garnered attention, particularly among tech enthusiasts and designers, but it’s still in its early stages, and some users find its non-traditional UI challenging. Its approach offers a fresh take, but adoption is currently niche.
 
+![Arc](https://arc.net/developers/ask-on-page.png)
+
+
+
 ## [Brave](https://brave.com/)
 Brave’s big selling point is privacy. It blocks ads and trackers by default and even lets you earn cryptocurrency by opting into seeing some non-intrusive ads. That said, Brave has had some controversies, like when they added affiliate links into address bars without telling users. But if you want a faster, more private browsing experience and don’t mind their crypto ecosystem, Brave is a solid choice.
+
+![Brave](https://cdn.mos.cms.futurecdn.net/aDSHPmJaCk5WEbixnCYCwP.png)
 
 ## [Chromium](https://www.chromium.org/)
 Chromium is the open-source backbone for a lot of popular browsers out there. It’s lightweight, fast, and always up-to-date with the latest web standards, but it doesn’t come with some of the fancy stuff you get with Chrome, like automatic updates or built-in Google services. Some people think it gives too much power to Google, but it’s also what makes a lot of your favorite browsers tick.
 
+![Chromium](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/b30809cd-c5fc-4177-b121-d1cd90991877.png)
+
 ## [Google Chrome](https://www.google.com/chrome/)
 Chrome is basically the go-to browser for most people. It’s fast, works with all your Google stuff, and has a massive library of extensions. But it does have a downside: it can be a bit of a memory hog and isn't great for privacy since Google collects a lot of data. Still, it’s super reliable and gets the job done.
+
+![Google Chrome](https://www.google.com/chrome/static/images/intl/pl_PL/homepage/fast/mobile-xp/fast-mobile_desktop.png)
 
 ## [Falkon](https://www.falkon.org/)
 Falkon is a lightweight, open-source browser built with simplicity in mind. It’s perfect for older systems or people who just want a browser that doesn’t hog resources. It doesn’t get updated as often as other browsers, and its support for extensions is pretty limited. It’s a nice option if you’re on Linux or just want something super lightweight.
 
+![Falkon](https://cdn.kde.org/screenshots/falkon/falkon.png)
+
 ## [Kiwi Browser](https://kiwibrowser.com/)
 Kiwi Browser is a fast, Chromium-based browser designed specifically for Android. One of its standout features is its ability to run Chrome desktop extensions on mobile, a rare capability among mobile browsers. It also includes an ad blocker, crypto-jacking protection, and dark mode. While Kiwi offers a highly customizable browsing experience with a clean interface, it doesn't get as frequent updates as some other browsers, which can occasionally lead to security concerns. It’s a favorite for Android users who want a more customizable and private alternative to Chrome without compromising on speed and features.
+
+![Kiwi Browser](https://androidcommunity.com/wp-content/uploads/2020/06/kiwi-browser.jpg)
 
 ## [Microsoft Edge](https://www.microsoft.com/edge)
 Edge was rebuilt on Chromium in 2020 after a less successful run on Microsoft's proprietary engine. It’s appreciated for its seamless integration with Windows and Microsoft services like OneDrive and Office 365. Edge includes innovative features like Collections (for organizing content) and vertical tabs. However, some users are wary of Microsoft's data collection practices, and it faces competition from other privacy-focused alternatives. Edge’s mandatory presence on Windows and persistent prompts urging users to switch from other browsers have sparked controversy among some users.
 
+![Microsoft Edge](https://www.ruggedinformer.com/wp-content/uploads/2020/01/microsoft-edge-new-browser.jpg)
+
 ## [Opera](https://www.opera.com/)
 Opera stands out for its array of built-in features, including an ad blocker, free VPN, cryptocurrency wallet, and a sidebar for quick access to social media and messaging apps. While Opera's unique features make it popular with power users, some in the community question the browser's future after its acquisition by a Chinese consortium in 2016, raising concerns over privacy and data sharing. Opera has a loyal following but faces stiff competition from other Chromium-based browsers.
+
+![Opera](https://www-static-sites.operacdn.com/wp-content/uploads/sites/5/2023/04/image-1-1.jpg)
 
 ## [Opera GX](https://www.opera.com/gx)
 Opera GX is like Opera, but for gamers. It’s got a slick design, with features to limit how much CPU or RAM it uses, so it doesn’t slow down your games. There are integrations with Twitch and Discord too. Some think it’s a bit gimmicky, but if you’re into gaming and want a browser that matches your aesthetic, it’s worth a try.
 
+![Opera GX](https://www-static-sites.operacdn.com/wp-content/uploads/sites/5/2022/03/Slide-16_9-20.png)
+
 ## [Vivaldi](https://vivaldi.com/)
 Vivaldi is for the tinkerers who love to customize everything. You can control every aspect of this browser, from how the tabs work to the layout and appearance. It’s also privacy-focused and doesn’t track you. But all those features can make it feel a bit overwhelming if you just want a simple, easy-to-use browser. It’s a favorite for power users who want things their way.
+
+![Vivaldi](https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/home/desktop/mcf.jpg)
 
 ## [Yandex Browser](https://browser.yandex.com/)
 Developed by Russia’s largest tech company, Yandex, this Chromium-based browser includes a variety of features like built-in ad blocking, Turbo Mode for slow connections, and a distinctive "Alice" voice assistant. While it offers a streamlined and efficient browsing experience, the Yandex Browser is controversial due to its association with Russia, raising privacy and data security concerns, especially for users outside of the country. It also receives mixed reviews in Western markets, though it’s quite popular in Russia and nearby regions.
 
+![Yandex Browser](https://www.instalki.pl/wp-content/uploads/program/y/yandex-browser.webp)
+
 ## [Mozilla Firefox](https://www.mozilla.org/firefox)
 Firefox is an open-source browser developed by Mozilla and celebrated for its strong stance on privacy and open standards. It has a passionate community of users and developers, though its market share has declined due to the rise of Chromium-based browsers. Firefox offers robust customization options and strong security features, including tracking protection and a growing number of privacy-focused add-ons. Despite a smaller user base, it remains a favorite among users who prioritize privacy and transparency over speed and compatibility.
+
+![Firefox](https://blog.mozilla.org/wp-content/blogs.dir/278/files/2021/05/fx_firefox_toolbar-1024x576.png)
 
 ## [Floorp](https://floorp.app/en)
 A privacy-focused fork of Firefox, Floorp is developed by a Japanese student group aiming to create a more user-friendly and lightweight version of Firefox. It offers a minimalist interface and removes some of the telemetry features found in the original Firefox. Although relatively unknown, it’s gaining traction among users seeking a streamlined, privacy-first browsing experience with familiar Firefox features.
 
+![Floorp](https://floorp.app/_next/static/media/hero.c2bc9f0f.webp)
+
 ## [Libre Wolf](https://librewolf.net/)
 LibreWolf is like Firefox, but even more hardcore about privacy. It strips out all telemetry (data collection) and enforces stronger privacy settings. It’s great for people who want the security of Firefox without any of the tracking. The downside is it doesn’t always get updates as fast, and the setup can be a bit tricky for new users.
+
+![Libre Wolf](https://learnubuntumate.weebly.com/uploads/1/0/8/4/108446579/librewolf-411_orig.jpg)
 
 ## [Safari](https://www.apple.com/safari/)
 Safari is Apple’s default browser for macOS and iOS, known for its speed, energy efficiency, and tight integration with the Apple ecosystem. It prioritizes privacy with features like Intelligent Tracking Prevention (ITP), which blocks third-party cookies and trackers. Safari is also optimized for Apple hardware, making it one of the fastest and most battery-efficient browsers on Macs and iPhones. However, its customization options and support for extensions are more limited compared to Chromium-based browsers. Safari’s exclusivity to Apple devices also limits its reach, but it remains the go-to for many Mac and iOS users who value privacy and performance.
 
-## [Tor browser](https://www.torproject.org/download/)
+![Safari](https://developer.apple.com/safari/images/ipados-ios-hero-small_2x.png)
+
+## [Tor Browser](https://www.torproject.org/download/)
 Tor Browser is all about anonymity. It routes your traffic through the Tor network, making it much harder to track what you’re doing online. It’s a go-to for journalists, activists, and anyone in high-risk areas where privacy is critical. The downside is it’s slower than other browsers because of the way it handles your traffic. It’s great for privacy, but not perfect for everyday browsing if speed is a priority.
 
-## [Mullvad browser](https://mullvad.net/en/browser)
+![Tor browser](https://i0.wp.com/9to5linux.com/wp-content/uploads/2021/11/torbrowser11.webp?fit=1920%2C1080&ssl=1)
+
+## [Mullvad Browser](https://mullvad.net/en/browser)
 Developed in partnership with the creators of Mullvad VPN, the Mullvad Browser is a Tor-based browser designed to reduce tracking and increase anonymity, without necessarily routing traffic through the Tor network. It’s popular among VPN users seeking a privacy-focused browser without the full overhead of the Tor network. It’s still relatively new, and adoption is primarily among those already familiar with Mullvad's privacy products.
+
+![Mullvad Browser](https://news.itsfoss.com/content/images/2023/04/Mullvad_Browser.jpg)
 
 ## [Waterfox](https://www.waterfox.net/)
 Waterfox started out as a way to keep using old Firefox extensions after Firefox dropped support for them. It’s all about performance and privacy, without any of Mozilla’s telemetry. But ever since it was bought by System1, which is involved in advertising, some users have questioned its future direction. Still, it’s popular among those who miss the old Firefox experience.
 
+![Waterfox](https://linuxtldr.com/wp-content/uploads/2023/10/waterfox-browser-1024x773.webp)
+
 ## [Pale Moon](https://www.palemoon.org/)
 Pale Moon is a Firefox fork that diverged significantly from its parent. It uses its own rendering engine (Goanna) and focuses on efficiency and customization while maintaining support for traditional Firefox extensions. Pale Moon is popular among users who prefer a classic browser experience with low resource usage, but it’s criticized for lagging behind in modern web standards and security features compared to mainstream browsers. Some find its development pace slower and its ecosystem smaller than Firefox or Chromium-based browsers.
+
+![Pale Moon](https://miro.medium.com/v2/resize:fit:1400/1*w4MkYGVGYU0GjlMfI5VIjg.png)
 
 
 
