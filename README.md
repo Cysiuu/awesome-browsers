@@ -1,4 +1,4 @@
-# awesome-browsers 
+# Awesome Browsers
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 **Welcome to the Awesome Browsers! This list covers a wide range of web browser-related topics, including features, privacy aspects, and helpful links. Whether you're seeking information on mainstream browsers, privacy-focused alternatives, or specific browser extensions, this list helps you navigate the web with confidence.**
@@ -7,7 +7,7 @@
 
 **Contributions are highly encouraged — let's expand this list together and make it the go-to resource for everything related to web browsers and grow an awesome community! <br><br> >>> <a href="contributing.md">Contribution guidelines</a> <<<**
 
-# Table of Contents
+# Contents
 
 - **[Browsers](#browsers)**
 - **[Special Browsers](#special-browsers)**

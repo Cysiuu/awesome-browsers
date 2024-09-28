@@ -1,0 +1,217 @@
+[33mcommit c1e8708612c8c8ea864f4d33146d0560a9d24e98[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 5a1fc0a 7ad58c4
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Sun Sep 29 00:20:48 2024 +0200
+
+    Merge branch 'main' of https://github.com/Cysiuu/awesome-browsers / Request after amend & no edit
+
+[33mcommit 5a1fc0a0720977585311c7b02d4b4351476963d1[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Sun Sep 29 00:19:02 2024 +0200
+
+    Change heading title to title case format
+
+[33mcommit 7ad58c4909b0d802df3826bfa3f51e9543bd00c5[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Sun Sep 29 00:19:02 2024 +0200
+
+    Change heading title to title case format
+
+[33mcommit 4f3b35e1322fce481a0210f0b9c1db11f108cb4b[m
+Author: Krzysztof Kozyra <87642957+Cysiuu@users.noreply.github.com>
+Date:   Sun Sep 29 00:01:49 2024 +0200
+
+    Change tor browser image
+
+[33mcommit b4a7b77042d9f044571b735e6c915bf3844e71f8[m
+Author: Krzysztof Kozyra <87642957+Cysiuu@users.noreply.github.com>
+Date:   Sat Sep 28 23:45:07 2024 +0200
+
+    Fix libre wolf browser image link
+
+[33mcommit b81ae1850272fc581f0560b5fff6b1e9058ac68c[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Sat Sep 28 23:42:43 2024 +0200
+
+    Add images to showcase browsers
+
+[33mcommit a654053208abc3c7ac9244c394b36c54b0bb8a75[m
+Author: Krzysztof Kozyra <87642957+Cysiuu@users.noreply.github.com>
+Date:   Sat Sep 28 00:51:53 2024 +0200
+
+    Fix table of contents anchor
+
+[33mcommit c646b1cb7bc38e9d3913edff912474a0034b9a91[m
+Author: Krzysztof Kozyra <87642957+Cysiuu@users.noreply.github.com>
+Date:   Sat Sep 28 00:25:35 2024 +0200
+
+    Nit-pick formatting changes
+
+[33mcommit 81d91926ca029b6a41017e4fb3c34d9cc7fe80ba[m
+Merge: 9147785 922ad40
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Sat Sep 28 00:18:36 2024 +0200
+
+    Merge branch 'main' of https://github.com/Cysiuu/awesome-browsers
+
+[33mcommit 9147785d0b256a6c0cf961e6263f2a5ebc0d11b2[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Sat Sep 28 00:17:08 2024 +0200
+
+    Add table of contents
+
+[33mcommit 922ad40b3f2cc509cbfafe2be21cc2b5f87fc266[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Sat Sep 28 00:17:08 2024 +0200
+
+    Add table of contents
+
+[33mcommit 44f67fcc34cc219dd2b9c80d38551539d885e504[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Sat Sep 28 00:05:13 2024 +0200
+
+    Add extensions for Addons mozilla
+
+[33mcommit 8326c3f1a2f303f05c013839812565a9f7ec70aa[m
+Merge: 149abba db924be
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Fri Sep 27 23:42:40 2024 +0200
+
+    Merge branch 'main' of https://github.com/Cysiuu/awesome-browsers
+
+[33mcommit 149abba7cc359e0348160208089070d244d882b9[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Fri Sep 27 23:41:55 2024 +0200
+
+    change contribution guidelines
+
+[33mcommit 8d5309835572859cbb51aa7869a0377e558278f8[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Fri Sep 27 23:27:25 2024 +0200
+
+    Add legend and icons for browsers section
+
+[33mcommit db924be4c96581ef710e8e4bc799ba168b3555de[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Fri Sep 27 23:27:25 2024 +0200
+
+    Add legend and icons for browsers section
+
+[33mcommit 1e4975823df1d59301d090bd96f386741a7ac311[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Fri Sep 27 23:10:18 2024 +0200
+
+    Add info about rest of the browsers, add few browsers to mobile section
+
+[33mcommit 1155b20c8dd3fb17748074ce54c79a7f2533dc01[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Fri Sep 27 22:47:41 2024 +0200
+
+    Sort browsers alphabetically, add information for two first browsers
+
+[33mcommit 1e06f09c88fee32d5cb855968c9cbebd70cbee1e[m
+Merge: 0933d0e 3f394bc
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Fri Sep 27 22:42:03 2024 +0200
+
+    Update from origin
+
+[33mcommit 0933d0ec9424d30f3b35996fe35fbca89a94500a[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Fri Sep 27 22:38:58 2024 +0200
+
+    Change structure of browsers section
+
+[33mcommit 3f394bc290e6ab6ce68dbad28b72945fe530ae80[m
+Author: Krzysztof Kozyra <87642957+Cysiuu@users.noreply.github.com>
+Date:   Thu Sep 26 23:24:45 2024 +0200
+
+    Add section for mozilla addons, add one extension to this list
+
+[33mcommit b10b74c5f94aa657f8ae0cf70b5c1d7142b1cbd0[m
+Merge: ace9e55 12ba633
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Wed Sep 25 21:54:23 2024 +0200
+
+    Merge fix
+
+[33mcommit ace9e5594848bf67d5b7c975d66649b14f2de554[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Tue Sep 24 23:17:45 2024 +0200
+
+    Check misspellings and grammar errors
+
+[33mcommit 12ba633ac0d4510f4ba00a1490dac932cf06afbc[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Tue Sep 24 23:17:45 2024 +0200
+
+    Check misspellings and grammar errors
+
+[33mcommit 0cc4583f3fa60b9d156a1637fd0fae8188fd19ee[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Tue Sep 24 23:09:24 2024 +0200
+
+    Add AdBlock Testers section, Add 2 Special Browsers
+
+[33mcommit 94b7daa1d239ae6e5b36495b791aebb7aea1b4bd[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Tue Sep 24 22:46:29 2024 +0200
+
+    Add some links and websites for privacy & security section
+
+[33mcommit 8f095d886451a6c561abbc1d14e54c26f5ebb89d[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Tue Sep 24 22:17:44 2024 +0200
+
+    Add short description and link to every search engine
+
+[33mcommit ee31f5d1b7276067c46b741482662be2d6d0671d[m
+Merge: 30ecbdf ba1054a
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Mon Sep 23 22:51:55 2024 +0200
+
+    Merge branch 'main' of https://github.com/Cysiuu/awesome-browser-extensions
+    Merge fix
+
+[33mcommit 30ecbdf5a91176286a6d6adfd3eab23bf6e009a3[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Mon Sep 23 22:50:55 2024 +0200
+
+    Add section for extensions, first few for chrome web store
+
+[33mcommit ba1054aaead61ebeba935d10df3b2d60a987e21f[m
+Author: Krzysztof Kozyra <87642957+Cysiuu@users.noreply.github.com>
+Date:   Fri Sep 20 22:59:59 2024 +0200
+
+    license fix
+
+[33mcommit 8046c6f6eef4b312cfdeab1e761f860ea38c74e7[m
+Merge: 85873f6 6612d08
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Fri Sep 20 22:58:20 2024 +0200
+
+    resolved merge conflict
+
+[33mcommit 85873f660c18a1aacdfdd78f6ba958a2efc3acd5[m
+Author: Cysiuu <cysiuu021@protonmail.com>
+Date:   Fri Sep 20 22:54:14 2024 +0200
+
+    add awesome-related files, contribution.md, and scaffold for future develop
+
+[33mcommit 6612d080fe6c3f4661ee694992a631b192143fcf[m
+Author: Krzysztof Kozyra <87642957+Cysiuu@users.noreply.github.com>
+Date:   Fri Sep 20 22:11:52 2024 +0200
+
+    Change license to CC0
+
+[33mcommit eb93c3fb8391ae7753d2d02df825a10aaa173f2a[m
+Author: Krzysztof Kozyra <87642957+Cysiuu@users.noreply.github.com>
+Date:   Fri Sep 20 20:21:57 2024 +0200
+
+    Update README.md
+
+[33mcommit 405b4c91af06c7accdbf5d63340e117bd96f9884[m
+Author: Krzysztof Kozyra <87642957+Cysiuu@users.noreply.github.com>
+Date:   Fri Sep 20 19:53:52 2024 +0200
+
+    Initial commit
