@@ -239,7 +239,7 @@ A privacy-focused fork of Firefox, Floorp is developed by a Japanese student gro
 ## [Libre Wolf](https://librewolf.net/)
 LibreWolf is like Firefox, but even more hardcore about privacy. It strips out all telemetry (data collection) and enforces stronger privacy settings. It’s great for people who want the security of Firefox without any of the tracking. The downside is it doesn’t always get updates as fast, and the setup can be a bit tricky for new users.
 
-![Libre Wolf](https://learnubuntumate.weebly.com/uploads/1/0/8/4/108446579/librewolf-411_orig.jpg)
+![Libre Wolf](https://windows-cdn.softpedia.com/screenshots/LibreWolf_1.jpg)
 
 ## [Safari](https://www.apple.com/safari/)
 Safari is Apple’s default browser for macOS and iOS, known for its speed, energy efficiency, and tight integration with the Apple ecosystem. It prioritizes privacy with features like Intelligent Tracking Prevention (ITP), which blocks third-party cookies and trackers. Safari is also optimized for Apple hardware, making it one of the fastest and most battery-efficient browsers on Macs and iPhones. However, its customization options and support for extensions are more limited compared to Chromium-based browsers. Safari’s exclusivity to Apple devices also limits its reach, but it remains the go-to for many Mac and iOS users who value privacy and performance.
