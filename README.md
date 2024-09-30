@@ -115,13 +115,16 @@
 
 - ## Chrome web store
 
-    - **[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)** - A strong, popular, and highly effective ad and content blocker
+    - **[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)** - A strong, popular, and highly effective ad and content blocker <br>How to setup uBlock Origin : https://github.com/gorhill/uBlock/wiki/Blocking-mode<br>
+    Script to stop AdBlock detection : https://reek.github.io/anti-adblock-killer/#filterlist
 
     - **[Decentraleyes](https://chromewebstore.google.com/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)** - Extension that protects you against tracking
 
     - **[Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)** - Allows you to enable dark mode for all web pages
 
     - **[Sponsor Block](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)** - Skip sponsors, intros, outros, subscription reminders, and other annoying parts of YouTube videos
+
+    - **[I still don't care about cookies](https://chromewebstore.google.com/detail/i-still-dont-care-about-c/edibdbjcniadpccecjdfdjjppcpchdlm)** - This add-on will remove cookie warnings from almost all websites (Community version of the popular extension "I don't care about cookies")
 
     - **[DeArrow](https://chromewebstore.google.com/detail/dearrow-better-titles-and/enamippconapkdmgfgjchkhakpfinmaj)** - Make titles and thumbnails on Youtube free from sensationalism, clickbaits and more
 
@@ -139,9 +142,14 @@
 
 - ## Addons mozilla
 
-    - **[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)** - A strong, popular, and highly effective ad and content blocker
-
+    - **[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)** - A strong, popular, and highly effective ad and content blocker <br>How to setup uBlock Origin : https://github.com/gorhill/uBlock/wiki/Blocking-mode<br>
+    Script to stop AdBlock detection : https://reek.github.io/anti-adblock-killer/#filterlist
+    
     - **[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)** - Extension that protects you against tracking
+
+    - **[Unhook](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/)** - Hide YouTube related videos, comments, video suggestions wall, homepage recommendations, trending tab, and other distractions
+
+    - **[I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/)** - This add-on will remove cookie warnings from almost all websites (Community version of the popular extension "I don't care about cookies")
 
     - **[Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)** - Allows you to enable dark mode for all web pages
 
@@ -173,8 +181,6 @@
 A newer browser from The Browser Company, Arc is designed with a focus on creativity and productivity. Its interface is radically different, emphasizing workspace organization and collaboration through features like tab management with cards and folders. Arc’s experimental design has garnered attention, particularly among tech enthusiasts and designers, but it’s still in its early stages, and some users find its non-traditional UI challenging. Its approach offers a fresh take, but adoption is currently niche.
 
 ![Arc](https://arc.net/developers/ask-on-page.png)
-
-
 
 ## [Brave](https://brave.com/)
 Brave’s big selling point is privacy. It blocks ads and trackers by default and even lets you earn cryptocurrency by opting into seeing some non-intrusive ads. That said, Brave has had some controversies, like when they added affiliate links into address bars without telling users. But if you want a faster, more private browsing experience and don’t mind their crypto ecosystem, Brave is a solid choice.
@@ -212,7 +218,7 @@ Opera stands out for its array of built-in features, including an ad blocker, fr
 ![Opera](https://www-static-sites.operacdn.com/wp-content/uploads/sites/5/2023/04/image-1-1.jpg)
 
 ## [Opera GX](https://www.opera.com/gx)
-Opera GX is like Opera, but for gamers. It’s got a slick design, with features to limit how much CPU or RAM it uses, so it doesn’t slow down your games. There are integrations with Twitch and Discord too. Some think it’s a bit gimmicky, but if you’re into gaming and want a browser that matches your aesthetic, it’s worth a try.
+Opera GX is like Opera, but for gamers. It’s got a slick design, with features to limit how much CPU or RAM it uses, so it doesn’t slow down your games. There are integrations with Twitch and Discord too. Some think it’s a bit gimmicky, but if you’re into gaming and want a browser that matches your aesthetic, it’s worth a try, but be aware that it mines data as well
 
 ![Opera GX](https://www-static-sites.operacdn.com/wp-content/uploads/sites/5/2022/03/Slide-16_9-20.png)
 
