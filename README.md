@@ -237,6 +237,8 @@ Firefox is an open-source browser developed by Mozilla and celebrated for its st
 
 ![Firefox](https://blog.mozilla.org/wp-content/blogs.dir/278/files/2021/05/fx_firefox_toolbar-1024x576.png)
 
+Customize UI of your firefox : https://firefoxcss-store.github.io
+
 ## [Floorp](https://floorp.app/en)
 A privacy-focused fork of Firefox, Floorp is developed by a Japanese student group aiming to create a more user-friendly and lightweight version of Firefox. It offers a minimalist interface and removes some of the telemetry features found in the original Firefox. Although relatively unknown, it’s gaining traction among users seeking a streamlined, privacy-first browsing experience with familiar Firefox features.
 
