@@ -113,9 +113,11 @@
 
 # Extensions 
 
-- ## Chrome web store
+![Warning](https://img.shields.io/badge/Warning-Google%20deprecating%20Manifest%20v2-orange)
 
-Since Google is going to deprecate Manifest v2, all ad-blocking, tracker-removal, etc. extensions won't work in future releases (they are currently testing it in the Canary build)
+⚠️ **Warning**: Since Google is going to deprecate Manifest v2, all ad-blocking, tracker-removal, etc. extensions won't work in future releases (they are currently testing it in the Canary build).
+
+- ## Chrome web store
 
     - **[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)** - A strong, popular, and highly effective ad and content blocker <br>How to setup uBlock Origin : https://github.com/gorhill/uBlock/wiki/Blocking-mode<br>
     Script to stop AdBlock detection : https://reek.github.io/anti-adblock-killer/#filterlist
