@@ -117,6 +117,8 @@
 
 ⚠️ **Warning**: Since Google is going to deprecate Manifest v2, all ad-blocking, tracker-removal, etc. extensions won't work in future releases (they are currently testing it in the Canary build).
 
+There are some workarounds to support Manifest V2. Here is one of the guides: https://gist.github.com/velzie/053ffedeaecea1a801a2769ab86ab376
+
 - ## Chrome web store
 
     - **[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)** - A strong, popular, and highly effective ad and content blocker <br>How to setup uBlock Origin : https://github.com/gorhill/uBlock/wiki/Blocking-mode<br>
