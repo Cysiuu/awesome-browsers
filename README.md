@@ -66,7 +66,7 @@
 # Search Engines
 
 - ## Standard Search Engines
-    - **[Google](https://www.google.com/)** - The most popular and widely used search engine, known for its fast, comprehensive, and accurate search results, along with a range of integrated tools and services
+    - **[Google](https://www.google.com/)** - The most popular and widely used search engine, known for its fast, comprehensive, and accurate search results, along with a range of integrated tools and services, altough, not really secure
 
     - **[Microsoft Bing](https://www.bing.com/)** - A robust alternative to Google, Bing offers visually rich search results, image searches, and rewards users with Microsoft Points
 
@@ -99,12 +99,12 @@
     - **[CoverYourTracks](https://coveryourtracks.eff.org/)** - Website to help you check your protection against tracking and fingerprinting
     - **[TestingYourSecurityPrivacy](https://www.billdietrich.me/TestingYourSecurityPrivacy.html?expandall=1#TestForLeaks)** - A list that covers a wide range of privacy and security tests
     - **[minbrowser](https://github.com/minbrowser/min)** - Open-source, minimal and privacy-focused browser, designed to help users focus by offering distraction-free browsing
-    - **[awesome-privacy Web Browser Section](https://github.com/pluja/awesome-privacy?tab=readme-ov-file#web-browser)** - A section on web browser privacy from Awesome-Privacy ( Check full repository too! )
+    - **[awesome-privacy Web Browser Section](https://github.com/pluja/awesome-privacy?tab=readme-ov-file#web-browser)** - A section on web browser privacy from Awesome-Privacy
 
 - ## AdBlock Testers
     - **[d3ward adblock test](https://d3ward.github.io/toolz/adblock.html)** - Open-source test that allows you to check if your adblock solution is blocking enough hosts
     - **[AdBlock Tester](https://adblock-tester.com/)** - Test AdBlock with various advertising and analytic services
-    - **[Can you block it?](https://canyoublockit.com/)** - "AdBlock test website offering three types of tests (Simple, Extreme, and Advanced)
+    - **[Can you block it?](https://canyoublockit.com/)** - AdBlock test website offering three types of tests (Simple, Extreme, and Advanced)
 
 
 # Special Browsers
