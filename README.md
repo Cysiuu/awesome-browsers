@@ -145,6 +145,28 @@ There are some workarounds to support Manifest V2. Here is one of the guides: ht
     - **[Start.me](https://chromewebstore.google.com/detail/strona-nowej-karty-startm/cfmnkhhioonhiehehedmnjibmampjiab)** - Express yourself by customizing your start page
 
     - **[Volume master](https://chromewebstore.google.com/detail/volume-master-kontroler-g/jghecgabfgfdldnmbfkhmffcabddioke)** - Let you boost volume up to 600%
+ 
+    - **[Chaff](https://chromewebstore.google.com/detail/chaff/jgjhamliocfhehbocekgcddfjpgdjnje)** - Generate random web browsing traffic to obfuscate actual browsing behavior to avoid profiling through 3rd party observation
+    - **[ClearURLs](https://chromewebstore.google.com/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)** - Automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet
+    - **[Wayback Machine](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak)** - Go back in time to see how a website has changed through the history of the Web. Save websites, view missing 404 Not Found pages, or read archived books & papers
+    - **[Perplexity - AI Companion](https://chromewebstore.google.com/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo)** - Ever found yourself buried in browser tabs, trying to find that one answer or summary that makes everything clear? Perplexity is your go-to solution—a harmonious blend of ChatGPT and Google, designed to serve your curiosity instantly
+    - **[OneTab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)** - Every time you have too many cards, click the OneTab icon to turn all cards into a list. If you want to access them again, you can restore all or individual cards
+    - **[Extensity](https://chromewebstore.google.com/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)** - Quickly enable / disable Google Chrome extensions
+    - **[d3coder](https://chromewebstore.google.com/detail/d3coder/gncnbkghencmkfgeepfaonmegemakcol)** - Add-on that allows you to encode and decode different types of encoding, such as base64, rot13 or time ...
+    - **[Distill Web Monitor](https://chromewebstore.google.com/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge)** - Monitor changes on websites and news channels. Receive email or text notifications about changes
+    - **[GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)** - Capture a screenshot of your current page in entity and reliably — without requesting any extra permissions!
+    - **[Fake news debunker](https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe)** - Plugin has been designed as a verification “Swiss army knife ” helping journalists, fact-checkers, and human rights defenders to save time and be more efficient in their fact-checking and debunking tasks on social networks especially when verios 
+    - **[Link Grabber](https://chromewebstore.google.com/detail/link-grabber/caodelkhipncidmoebgbbeemedohcdma)** - An easy to use extractor or grabber for hyperlinks on an HTML page, extract links from an HTML page and display them in another tab
+    - **[Linkclump](https://chromewebstore.google.com/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj)** - Linkclump gives you the ability to drag a selection box around links using your mouse to quickly open as new tabs, open in new window, save as bookmarks, or copy to clipboard. Similar to Snap Links or Multi Links for Firefox
+    - **[NoScript](https://chromewebstore.google.com/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)** - Maximum protection for your browser: NoScript allows active content only in trusted domains to prevent them ...
+    - **[Project Naptha](https://chromewebstore.google.com/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf)** - Highlight, copy, edit, and translate text from any image on the web
+    - **[Office Editor](https://chromewebstore.google.com/detail/edytor-office/gbkeegbaiigmenfmjfclcdgdpimamgkj)** - Display and edit Microsoft Word, Excel and PowerPoint files even if you don't have Office installed on your computer
+    - **[User-Agent Switcher and Manager](https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg)** - Spoof websites trying to gather information about your web navigation to deliver distinct content you may not want
+    - **[Shodan](https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap)** - The Shodan plugin tells you where the website is hosted (country, city), who owns the IP and what other services / ports are open
+    - **[Grammarly](https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen)** - Improve your writing with all-in-one assistance — including generative AI, grammar check, and more
+    - **[Vortimo OSINT Tool](https://chromewebstore.google.com/detail/vortimo-osint-tool/mnakbpdnkedaegeiaoakkjafhoidklnf)** - Bookmark / record pages, store screenshots, scrape and enrich entities. Finds text on every page + highlight
+
+
 
 - ## Addons mozilla
 
