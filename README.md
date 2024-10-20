@@ -33,7 +33,7 @@
         - [Arc](#arc) 💻
         - [Brave](#brave) 🌐 💻 🛡️
         - [Chrome](#google-chrome) 💻
-        - [Falkon](#falkon) - 🌐 **( built on the QtWebEngine )** 
+        - [Falkon](#falkon) - 🌐
         - [Microsoft Edge](#microsoft-edge) 💻
         - [Opera](#opera) 💻
         - [Opera GX](#opera-gx) 💻
@@ -44,7 +44,7 @@
         - [Floorp](#floorp) 🌐 🛡️ 
         - [Libre Wolf](#libre-wolf) 🌐 🛡️ 
         - [Tor Browser](#tor-browser) 🌐 💻 🛡️  
-            - [Mullvad Browser](#mullvad-browser) - **( based on Tor )** 🌐 🛡️
+        - [Mullvad Browser](#mullvad-browser) - **( based on Tor )** 🌐 🛡️
         - [Waterfox](#waterfox) 🌐 🛡️
         
     - [Pale Moon](#pale-moon) 🌐
