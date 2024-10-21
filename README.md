@@ -208,6 +208,8 @@ There are some workarounds to support Manifest V2. Here is one of the guides: ht
 ## [Arc](https://arc.net/)
 A newer browser from The Browser Company, Arc is designed with a focus on creativity and productivity. Its interface is radically different, emphasizing workspace organization and collaboration through features like tab management with cards and folders. Arc’s experimental design has garnered attention, particularly among tech enthusiasts and designers, but it’s still in its early stages, and some users find its non-traditional UI challenging. Its approach offers a fresh take, but adoption is currently niche
 
+[Arc Boosts](https://arcboosts.com/boosts) - Boosts (Extensions) for Arc Browser
+
 
 ## [Brave](https://brave.com/)
 Brave’s big selling point is privacy. It blocks ads and trackers by default and even lets you earn cryptocurrency by opting into seeing some non-intrusive ads. That said, Brave has had some controversies, like when they added affiliate links into address bars without telling users. But if you want a faster, more private browsing experience and don’t mind their crypto ecosystem, Brave is a solid choice
@@ -252,7 +254,7 @@ Developed by Russia’s largest tech company, Yandex, this Chromium-based browse
 ## [Mozilla Firefox](https://www.mozilla.org/firefox)
 Firefox is an open-source browser developed by Mozilla and celebrated for its strong stance on privacy and open standards. It has a passionate community of users and developers, though its market share has declined due to the rise of Chromium-based browsers. Firefox offers robust customization options and strong security features, including tracking protection and a growing number of privacy-focused add-ons. Despite a smaller user base, it remains a favorite among users who prioritize privacy and transparency over speed and compatibility
 
-<a href="https://firefoxcss-store.github.io">Firefox CSS Store</a> - Store that includes various themes for your Firefox browser <br>
+[Firefox CSS Store](https://firefoxcss-store.github.io) - Store that includes various themes for your Firefox browser <br>
 [Arc UI](https://github.com/dxdotdev/arc-ui) - A cool Firefox theme that makes you feel like you are using Arc Browser
 
 ## [Floorp](https://floorp.app/en)
