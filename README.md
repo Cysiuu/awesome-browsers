@@ -89,7 +89,7 @@
 
     - **[Presearch](https://presearch.com/)** - Decentralized search engine that rewards users with cryptocurrency tokens for searching while maintaining privacy and security
 
-# Privacy & Security 🛡️
+# Privacy & Security
 
 - ## Websites, lists and other
 
@@ -165,7 +165,6 @@ There are some workarounds to support Manifest V2. Here is one of the guides: ht
     - **[Shodan](https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap)** - The Shodan plugin tells you where the website is hosted (country, city), who owns the IP and what other services / ports are open
     - **[Grammarly](https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen)** - Improve your writing with all-in-one assistance — including generative AI, grammar check, and more
     - **[Vortimo OSINT Tool](https://chromewebstore.google.com/detail/vortimo-osint-tool/mnakbpdnkedaegeiaoakkjafhoidklnf)** - Bookmark / record pages, store screenshots, scrape and enrich entities. Finds text on every page + highlight
-
 
 
 - ## Addons mozilla
