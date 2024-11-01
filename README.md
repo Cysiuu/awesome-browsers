@@ -101,6 +101,8 @@
     - **[minbrowser](https://github.com/minbrowser/min)** - Open-source, minimal and privacy-focused browser, designed to help users focus by offering distraction-free browsing
     - **[awesome-privacy Web Browser Section](https://github.com/pluja/awesome-privacy?tab=readme-ov-file#web-browser)** - A section on web browser privacy from Awesome-Privacy
 
+- **[Hitchhiker’s Guide to Online - Anonymity](https://anonymousplanet.org/guide.html#appendix-v1-hardening-your-browsers)** - Guide to make your browser more private, it's good if you know what you're doing
+
 - ## AdBlock Testers
     - **[d3ward adblock test](https://d3ward.github.io/toolz/adblock.html)** - Open-source test that allows you to check if your adblock solution is blocking enough hosts
     - **[AdBlock Tester](https://adblock-tester.com/)** - Test AdBlock with various advertising and analytic services
